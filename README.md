@@ -5,7 +5,7 @@
  
 <h3> About Me: 👨🏻‍💻</h3>
 
-- 💼  I’m currently working on becoming a DevOps & Software Engineer
+- 💼  I’m currently working on becoming an exceptional DevOps & Software Engineer
 
 - ✍️  Currently learning all I can
 
