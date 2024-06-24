@@ -9,7 +9,7 @@
 
 - ✍️  Currently learning all I can
 
-- 🎯  Exploring newer technologies and developing software solutions, quick hacks and pipelines.
+- 🎯  Exploring newer technologies and developing software solutions, quick hacks and pipelines
 
 - 🤔 I’m looking for help with just about anything you think I would possibly need
 
