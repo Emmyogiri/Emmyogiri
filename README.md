@@ -1,5 +1,4 @@
-<h1> Hey there! I'm Emmy
- <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
+<h1> Hey there! I'm Emmy 👋🏾</h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" width="430"/>
 <!-- <p align="left"> <img   src="https://komarev.com/ghpvc/?username=sandesh300" alt="adi10hero" /> </p>
  -->
