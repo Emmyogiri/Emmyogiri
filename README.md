@@ -12,7 +12,7 @@
 
 - 🎯  Exploring newer technologies and developing software solutions and quick hacks.
 
-- 🤔 I’m looking for help with just about anything you think I possibly can
+- 🤔 I’m looking for help with just about anything you think I would possibly need
 
 - ⚡ Fun fact: I have a Bachelors degree in Psychology
 
