@@ -13,7 +13,7 @@
 
 - 🤔 I’m looking for help with just about anything you think I would possibly need
 
-- ⚡ Fun fact: I have a Bachelors degree in Psychology
+- ⚡ Fun fact: I have a degree in medical and health sciences. Take a guess 😄
 
 
 <h3 align="left">Connect with me: 🌐</h3>
