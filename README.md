@@ -23,11 +23,11 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="33" /></a>
  
 <a href="https://www.linkedin.com/in/emmanuelogiri/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandesh-bhujbal-b3a16a222/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuelogiri/" height="30" width="40" /></a>
 
 
 <a href="https://medium.com/@emmyogiri" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandesh__30_" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emmyogiri" height="30" width="40" /></a>
 
 
 </p>
